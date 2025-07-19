@@ -68,20 +68,26 @@ The purpose of this application is to simplify baby care management by offering 
 
 ---
 APP VIEW
-##App Icon
-<img width="393" height="353" alt="image" src="https://github.com/user-attachments/assets/843efd19-87f2-482f-9b7a-c975f781b14f" />
-##Login
- <img width="432" height="716" alt="image" src="https://github.com/user-attachments/assets/f648c65b-a603-49bd-9cda-7eb10ba2fd0a" />
- ##Sign Up Page
- <img width="434" height="720" alt="image" src="https://github.com/user-attachments/assets/492e34ca-ee48-46ba-9941-7b0f4a69630a" />
- ##Profile Page
- <img width="455" height="744" alt="image" src="https://github.com/user-attachments/assets/fa610c93-9f50-4be3-b787-dad940d1272c" />
- ##Details Entry Page
- <img width="441" height="733" alt="image" src="https://github.com/user-attachments/assets/d55d678e-2847-4f82-a386-e174b9110254" />
-##Details Page
-<img width="441" height="759" alt="image" src="https://github.com/user-attachments/assets/31aaa3a2-422d-4086-b0f1-de1930f4e3e1" />
-##Health Care Page
-<img width="464" height="770" alt="image" src="https://github.com/user-attachments/assets/c61d2aa1-610e-42fe-a2e5-a62a9c876980" />
+
+
+## App Icon
+<img src="https://github.com/user-attachments/assets/843efd19-87f2-482f-9b7a-c975f781b14f" width="250" />
+
+## Login
+<img src="https://github.com/user-attachments/assets/f648c65b-a603-49bd-9cda-7eb10ba2fd0a" width="250" />
+<img src="https://github.com/user-attachments/assets/492e34ca-ee48-46ba-9941-7b0f4a69630a" width="250" />
+
+## Profile Page
+<img src="https://github.com/user-attachments/assets/fa610c93-9f50-4be3-b787-dad940d1272c" width="250" />
+
+## Details Entry Page
+<img src="https://github.com/user-attachments/assets/d55d678e-2847-4f82-a386-e174b9110254" width="250" />
+
+## Details Page
+<img src="https://github.com/user-attachments/assets/31aaa3a2-422d-4086-b0f1-de1930f4e3e1" width="250" />
+
+## Health Care Page
+<img src="https://github.com/user-attachments/assets/c61d2aa1-610e-42fe-a2e5-a62a9c876980" width="250" />
 
 ##FUTURE SCOPE
 With the knowledge we have gained by developing this, we are confident that in the future we can make the application more effectively by adding this services. • Extending this application by providing Doctor Service. • Increasing the health care tips and also prevention tips. • Extending it to Web Support.
